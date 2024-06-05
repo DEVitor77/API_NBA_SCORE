@@ -24,6 +24,6 @@ jobs:
           context: .
           push: true
           tags: |
-            DEVitor77/nba-api-valter:v1
-            DEVitor77/nba-api-valter:latest
+            devitor77/nba-api-valter:v1
+            devitor77/nba-api-valter:latest
       
