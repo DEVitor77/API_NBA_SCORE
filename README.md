@@ -1,4 +1,4 @@
-# Exercicio Docker 
+# Exercicio Docker Python Action
 
 ## 1 - Crie uma API que retorne em JSON o resultado de 3 jogos de basque.
 
